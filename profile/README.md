@@ -1,27 +1,21 @@
 # Colorado School of Mines ⛏️
-A public STEM university dedicated to addressing the great challenges of society.
-
-## Maintained by [Mines ACM](https://acm.mines.edu/) & [CS@Mines](https://cs.mines.edu/)
+A public STEM university dedicated to addressing the great challenges of society. This organization is maintained by [Mines ACM](https://acm.mines.edu/) & [CS@Mines](https://cs.mines.edu/).
 - Mines ACM is the largest Computer Science club at [Mines](https://www.mines.edu/) and strives to provide meaningful career opportunities and CS-related experiences to students. 
 - We host weekly tech talks from recognized industry professionals, project meetings with diverse and open source projects, workshops teaching industry skills, and more.
 - We're an official local chapter of the [Association for Computing Machinery](https://www.acm.org) and an official club of CS@Mines.
 
-## Our Projects
-TBA
+## Our Projects 💻
+We're working on a lot of cool stuff during the Spring '22 semester.
 
-## Contributing Guidelines
-TBA
+[acm-discord-bot](https://github.com/ColoradoSchoolOfMines/acm-discord-bot): A Discord Bot built in Python for our Mines ACM Discord Server.
 
-<!--
-**Here are some ideas to get you started:**
+[visplay-v2](https://github.com/ColoradoSchoolOfMines/visplay-v2): Digital signage software.
 
-🙋‍♀️ A short introduction - what is your organization all about?
+[plummet-language](https://github.com/ColoradoSchoolOfMines/plummet-language): A new programming language with the goal of being compiled and interpreted.
 
-🌈 Contribution guidelines - how can the community get involved?
+[coloradoschoolofmines.github.io](https://github.com/ColoradoSchoolOfMines/coloradoschoolofmines.github.io): A simple & static site for club resources & tutorials.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+..and more to follow!
 
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contributing Guidelines 🤝
+Please ask before creating repositories. Repository names should typically be lowercase, descriptive, and short. Otherwise, per-project contributing guidelines are up to the maintainer.
