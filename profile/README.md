@@ -1,21 +1,19 @@
 # ⛏️ Colorado School of Mines
-A public STEM university dedicated to addressing the great challenges of society. This organization is maintained by [Mines ACM](https://acm.mines.edu/) & [CS@Mines](https://cs.mines.edu/).
-- Mines ACM is the largest Computer Science club at [Mines](https://www.mines.edu/) and strives to provide meaningful career opportunities and CS-related experiences to students. 
+A public STEM university dedicated to addressing the great challenges of society. This organization is maintained by [Mines ACM](https://acm.mines.edu/).
+- Mines ACM is the largest Computer Science club at [Mines](https://www.mines.edu/) and strives to provide meaningful career opportunities and Computer Science related experiences to students. 
 - We host weekly tech talks from recognized industry professionals, project meetings with diverse and open source projects, workshops teaching industry skills, and more.
-- We're an official local chapter of the [Association for Computing Machinery](https://www.acm.org) and an official club of CS@Mines.
+- We're an official local chapter of the [Association for Computing Machinery](https://www.acm.org) and an official club of [CS@Mines](https://cs.mines.edu/).
 
 ## 💻 Our Projects
-We're working on a lot of cool stuff during the Fall '23 semester.
+We're working on a lot of cool projects during the Fall '23 semester.
 
-[acm-site](https://github.com/ColoradoSchoolOfMines/acm-site): A complete redesign of our club's website.
+[OreCart](https://github.com/OreCart): An app for Golden's upcoming shuttle service.
 
-OreCart: An app for Golden's upcoming shuttle service.
-
-[acm-discord-bot](https://github.com/ColoradoSchoolOfMines/acm-discord-bot): A Discord Bot built in Python for our Mines ACM Discord Server.
-
-[visplay-v2](https://github.com/ColoradoSchoolOfMines/visplay-v2): Digital signage software.
+[acm-discord-bot](https://github.com/ColoradoSchoolOfMines/acm-discord-bot): A Discord Bot built in Python for Discord server.
 
 [plummet-language](https://github.com/ColoradoSchoolOfMines/plummet-language): A new programming language with the goal of being compiled and interpreted.
+
+[acm-site](https://github.com/ColoradoSchoolOfMines/acm-site): A complete redesign of our club's website.
 
 ..and more to follow!
 
