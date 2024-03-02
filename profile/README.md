@@ -5,15 +5,15 @@ A public STEM university dedicated to addressing the great challenges of society
 - We're an official local chapter of the [Association for Computing Machinery](https://www.acm.org) and an official club of [CS@Mines](https://cs.mines.edu/).
 
 ## 💻 Our Projects
-We're working on a lot of cool projects during the Fall '23 semester.
+We're working on a lot of cool projects during the Spring '24 semester.
 
 [OreCart](https://github.com/OreCart): An app for Golden's upcoming shuttle service.
+
+[acm-site](https://github.com/ColoradoSchoolOfMines/acm-site): Our new club website.
 
 [acm-discord-bot](https://github.com/ColoradoSchoolOfMines/acm-discord-bot): A Discord Bot built in Python for Discord server.
 
 [plummet-language](https://github.com/ColoradoSchoolOfMines/plummet-language): A new programming language with the goal of being compiled and interpreted.
-
-[acm-site](https://github.com/ColoradoSchoolOfMines/acm-site): A complete redesign of our club's website.
 
 ..and more to follow!
 
