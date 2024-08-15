@@ -7,7 +7,7 @@ A public STEM university dedicated to addressing the great challenges of society
 ## 💻 Our Projects
 We're working on a lot of cool projects during the Spring '24 semester.
 
-[OreCart](https://github.com/OreCart): An app for Golden's upcoming shuttle service.
+[syllabuddies](https://github.com/ColoradoSchoolOfMines/syllabuddy): A website for students to crowdsource and view syllabi.
 
 [acm-site](https://github.com/ColoradoSchoolOfMines/acm-site): Our new club website.
 
